@@ -2,7 +2,7 @@
 
 # Alexander Poslavskii
 
-<img alt="avatar" src="img/ava.svg">
+<img alt="avatar" src="img/ava.png">
 
 # My Contact Info
 
